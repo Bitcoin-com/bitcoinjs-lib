@@ -10,6 +10,7 @@ Estimated to be in use by over 15 million wallet users and is the backbone for a
 
 
 ## Features
+- Supports Bitcoin Cash
 - Clean: Pure JavaScript, concise code, easy to read.
 - Tested: Coverage > 90%, third-party integration tests.
 - Careful: Two person approval process for small, focused pull requests.
